@@ -1,0 +1,44 @@
+
+GuidelimeDataChar = {
+	["mainFrameHeight"] = 400,
+	["showUnavailableSteps"] = true,
+	["guideSkip"] = {
+		["MarkyMark 5-10 Elwynn Forest"] = {
+		},
+		["MarkyMark 5-12 Dun Morogh/Loch Modan"] = {
+			[4] = true,
+		},
+		["MarkyMark 1-5 Dun Morogh"] = {
+			[5] = true,
+			[20] = true,
+			[29] = true,
+			[21] = true,
+		},
+	},
+	["arrowY"] = -20,
+	["arrowRelative"] = "TOP",
+	["mainFrameX"] = -2.96277785301209,
+	["mainFrameLocked"] = false,
+	["mainFrameWidth"] = 350,
+	["arrowLocked"] = false,
+	["editorFrameY"] = 0,
+	["showCompletedSteps"] = false,
+	["arrowAlpha"] = 0.8,
+	["mainFrameAlpha"] = 0.5,
+	["currentGuide"] = "MarkyMark 5-10 Elwynn Forest",
+	["mainFrameY"] = 86.8148422241211,
+	["arrowX"] = 0,
+	["mainFrameFontSize"] = 14,
+	["editorFrameRelative"] = "CENTER",
+	["mainFrameShowScrollBar"] = true,
+	["guideSize"] = {
+		["MarkyMark 5-10 Elwynn Forest"] = 70,
+		["MarkyMark 5-12 Dun Morogh/Loch Modan"] = 102,
+		["MarkyMark 1-5 Dun Morogh"] = 33,
+	},
+	["showArrow"] = true,
+	["mainFrameShowing"] = true,
+	["version"] = "1.015",
+	["mainFrameRelative"] = "BOTTOMRIGHT",
+	["editorFrameX"] = 0,
+}

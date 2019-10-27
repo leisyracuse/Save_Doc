@@ -1,0 +1,18 @@
+tag f481e29b40f53ef1a0fc1395525ac6c8eb22a137 v1.015
+Author:	max-ri <51713394+max-ri@users.noreply.github.com>
+Date:	Wed Sep 4 22:53:21 2019 +0200
+
+v1.015
+
+commit 33c41feff448da91678fc05e51a97803982931e6
+Author: max-ri <51713394+max-ri@users.noreply.github.com>
+Date:   Wed Sep 4 22:53:21 2019 +0200
+
+    v1.015
+
+commit 796709f2bd4e721593d61d5d222cf33953ff79da
+Author: max-ri <51713394+max-ri@users.noreply.github.com>
+Date:   Wed Sep 4 22:52:38 2019 +0200
+
+    bugfix: an error occurs when loading a guide
+
